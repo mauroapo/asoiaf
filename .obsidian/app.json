@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "4 - Resources/Images",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "openBehavior": "daily",
+  "userIgnoreFilters": [
+    "5 - Archive/"
+  ]
+}

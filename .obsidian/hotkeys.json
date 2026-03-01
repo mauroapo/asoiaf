@@ -1,0 +1,29 @@
+{
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}

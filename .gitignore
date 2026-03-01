@@ -1,0 +1,19 @@
+# Ignore EVERYTHING
+#*
+
+# Allow git to traverse directories
+#!*/
+
+# Re-ignore folders you NEVER want
+#.obsidian/
+#.smart-env/
+
+# Allow only these folders (your real ones)
+#!00 - Referência do Mestre/
+#!01 - Mundo e Contexto/
+#!PDF/
+
+# Allow their contents
+#!00 - Referência do Mestre/**
+#!01 - Mundo e Contexto/**
+#!PDF/**

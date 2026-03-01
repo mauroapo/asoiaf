@@ -1,0 +1,395 @@
+{
+  "main": {
+    "id": "ca28fe7fc1c5aff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f784ddc22792e7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d52e7b5a65b12f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Referência do Mestre/🔗 A Regra do Vínculo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔗 A Regra do Vínculo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8348fedcaa6dd68",
+    "type": "split",
+    "children": [
+      {
+        "id": "d497615af951a861",
+        "type": "tabs",
+        "dimension": 76.68161434977578,
+        "children": [
+          {
+            "id": "9851769491a61162",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e820423566aac360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Nice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b6ea7fc119297f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25d8464a114ab8f5",
+        "type": "tabs",
+        "dimension": 23.318385650224215,
+        "children": [
+          {
+            "id": "e33c3bb298965778",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00 - Referência do Mestre/🔗 A Regra do Vínculo.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.2,
+                  "nodeSizeMultiplier": 2.08218181818182,
+                  "lineSizeMultiplier": 1.08145454545455,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 11.2252319109462,
+                  "linkStrength": 1,
+                  "linkDistance": 486,
+                  "scale": 0.29118659801656677,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 🔗 A Regra do Vínculo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "b0753f74ac5da6df",
+    "type": "split",
+    "children": [
+      {
+        "id": "978cda9f19aaccab",
+        "type": "tabs",
+        "dimension": 22.887700534759357,
+        "children": [
+          {
+            "id": "d3bfbff3966f4347",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
+            }
+          },
+          {
+            "id": "5c999eca3a68cabd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3 - Areas/jira-issues/(SF-718) Client Research-Aircraft Master Detail on Airframe and Engine Data Log CAUTO-440.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7345863357173033,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of (SF-718) Client Research-Aircraft Master Detail on Airframe and Engine Data Log CAUTO-440"
+            }
+          },
+          {
+            "id": "3f031d676b9036ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Areas/jira-issues/(SF-1076) CCT Agents Status panel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of (SF-1076) CCT Agents Status panel"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6f9fdfced28795ef",
+        "type": "tabs",
+        "dimension": 21.390374331550802,
+        "children": [
+          {
+            "id": "b0fec0b13af21ac9",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timer-view"
+            }
+          },
+          {
+            "id": "c965463a063d9754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Inbox/Daily/02-17-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-17-26"
+            }
+          },
+          {
+            "id": "1d56fd4c916f6abd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a5d5af481b624882",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "81d3f0ecf9e19582",
+        "type": "tabs",
+        "dimension": 55.721925133689844,
+        "children": [
+          {
+            "id": "bcad32babec4b9bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a26ed3553691758c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Inbox/Global.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Global"
+            }
+          },
+          {
+            "id": "572e1762a227602c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Inbox/Pessoal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pessoal"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false,
+      "3d-graph:3D Graph": false,
+      "chorographia:Open Chorographia Map": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "4d52e7b5a65b12f6",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "IMG/Unconfirmed 280722.crdownload",
+    "IMG/Unconfirmed 723591.crdownload",
+    "IMG/Unconfirmed 263778.crdownload",
+    "IMG/logo.png",
+    "IMG/Unconfirmed 284770.crdownload",
+    "IMG",
+    "New folder",
+    "00 - Referência do Mestre/🧠 COMPILADO DO CONTEXTO (Entendimento Atual).md",
+    "00 - Referência do Mestre/🔗 A Regra do Vínculo.md",
+    "04 - Tramas e Segredos/Ato 1 - O Casamento.md",
+    "PDF/Pokedex_Playtest105Plus.pdf",
+    "PDF/February 2016 Playtest Packet.pdf",
+    "PDF/Useful Charts.pdf",
+    "PDF/PTU changelog 1.05.txt",
+    "02 - Personagens Jogadores/Noive Tyrrel.md",
+    "02 - Personagens Jogadores/Herdeiro Arryn.md",
+    "01 - Mundo e Contexto/Casa Tyrell.md",
+    "01 - Mundo e Contexto/O Vale e os Arryn.md",
+    "01 - Mundo e Contexto/Contexto Geral - Reinado de Robert.md",
+    "00 - Referência do Mestre/Referência Rápida.md",
+    "Welcome.md",
+    "1- Inbox/Daily/02-20-26.md",
+    "1- Inbox/Daily/02-19-26.md",
+    "3 - Areas/jira-issues/(SF-718) Client Research-Aircraft Master Detail on Airframe and Engine Data Log CAUTO-440.md",
+    "4 - Resources/Images/Pasted image 20260219140504.png",
+    "3 - Areas/Service Claim Ebis/Service Claim Ebis.md",
+    "3 - Areas/jira-issues/(SF-1076) CCT Agents Status panel.md",
+    "1- Inbox/Daily/02-10-26.md",
+    "1- Inbox/Global.md",
+    "3 - Areas/Descartes/Descartes.md",
+    "1- Inbox/Daily/02-18-26.md",
+    "1- Inbox/Daily/02-17-26.md",
+    "3 - Areas/Autocloud Forefront/Autocloud Forefront.md",
+    "3 - Areas/jira-issues/Autocloud.md",
+    "3 - Areas/jira-issues/(SF-1084) Enable filtering options in the Address Book.md",
+    "3 - Areas/jira-issues/(SF-1048) Update to Aircraft Detail Lookup.md",
+    "4 - Resources/Images/Pasted image 20260218095228.png",
+    "1- Inbox/Daily/02-11-26.md",
+    "4 - Resources/Images/Pasted image 20260216111030.png",
+    "4 - Resources/Images/Pasted image 20260216110257.png",
+    "4 - Resources/Images/Pasted image 20260216110237.png",
+    "4 - Resources/Images/Pasted image 20260213174107.png",
+    "4 - Resources/Images/Pasted image 20260212152356.png",
+    "4 - Resources/Images/Pasted image 20260212151234.png",
+    "4 - Resources/Images/Pasted image 20260212150802.png"
+  ]
+}
